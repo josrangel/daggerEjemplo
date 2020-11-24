@@ -1,0 +1,10 @@
+com/josrangel/daggerejemplo/Navigator.java
+ com.josrangel.daggerejemplo.Navigator
+com/josrangel/daggerejemplo/BuildConfig.java
+ com.josrangel.daggerejemplo.BuildConfig
+com/josrangel/daggerejemplo/DiComponent.java
+ com.josrangel.daggerejemplo.DiComponent
+com/josrangel/daggerejemplo/MainActivity.java
+ com.josrangel.daggerejemplo.MainActivity
+com/josrangel/daggerejemplo/Presenter.java
+ com.josrangel.daggerejemplo.Presenter
